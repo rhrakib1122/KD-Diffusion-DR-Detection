@@ -1,0 +1,11 @@
+
+
+
+# What is Logits?
+
+	* In a neural network, logits are the raw, unnormalized output scores from the last layer before an activation function is applied. They can be any real number (-inf to +inf). They represent the model's "unfiltered" confidence in each class.
+
+
+# What is SoftMax?
+
+	* The Softmax function turns logits into a probability distribution. It squashes the raw scores so that each value is between 0 and 1, and the sum of all values equals 1.

@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (DON'T upload dataset)
+data/raw/
+data/processed/
+
+# Models
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

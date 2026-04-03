@@ -1,0 +1,51 @@
+# Datasets Links:
+
+	* https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy-224x224-2019-data?resource=download
+	* https://ieee-dataport.org/open-access/indian-diabetic-retinopathy-image-dataset-idrid (*)
+
+
+
+
+*******************************   START   **********************************
+
+# Day -01 -> 6 January 2026
+
+# Topics to be discoverd
+
+	* Diabetic Retinopathy
+	* Enhancement is not equal to Classification
+	* Diffusion Model
+	* Knowledge Distillation
+	* Adapters
+
+
+# Adapters:
+
+	* Adapters represent a cutting edge method for making pre-trained models more adaptable to new tasks without retraining the entire model.
+
+	* Applications of Adapters:
+		
+		1. Natural Language Processing
+		2. Computer Vision Adapters eg. Medical Images, Satellite Images
+		3. Robotics
+
+
+# Diffusion Models:
+
+	* Why: “Diffusion models act as a probabilistic prior to enhance retinal image quality and uncertainty-aware feature learning for diabetic retinopathy detection.”
+
+
+# Paper Search Keywords:
+
+
+	* “Diabetic Retinopathy detection deep learning”
+
+	* “Low-light fundus image enhancement”
+
+	* “Diffusion model medical images”
+
+	* “Knowledge distillation vision transformer”
+
+	* “Uncertainty estimation medical AI”
+
+	* “Edge deployment deep learning models”

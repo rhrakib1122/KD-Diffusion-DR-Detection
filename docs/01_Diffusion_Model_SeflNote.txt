@@ -1,0 +1,47 @@
+# Resources:
+	1. YouTube Playlist: https://www.youtube.com/watch?v=H45lF4sUgiE&list=PL8VDJoEXIjpo2S7X-1YKZnbHyLGyESDCe&pp=0gcJCbQEOCosWNin
+
+	2. Basic Overview: https://www.youtube.com/watch?v=0bRX0FNsRao
+	
+
+
+
+_________________________________________________________________________________________________
+
+Date: 13 March 2026
+
+
+# What is DM?
+
+	* A Diffusion Model is a type of Generative AI that creates High Quality data primarily Image but also Audio & Video by learning how to reverse a gradual(progressive) 'diffusion' process.
+
+
+	* A diffusion model learns how data (images) look by learning how to reverse a noise process step by step.
+
+
+	* It has 2 main steps:
+
+		1. Forward Diffusion/Process or Noising (Uses known physics, easy part)
+		2. Backward Diffusion/Process or Denoising (Uses probability, hard and research worthy)
+
+
+	* DDPM -> Denoising Diffusion Probabilistic Model, a paper published in 2020 that provided the mathematical framework of noise removing process.
+
+
+
+
+# What is Gaussian (Normal) Distribution?
+
+	* The Gaussian distribution is a probability distribution that looks like a symmetric, bell-shaped curve.
+	
+	* It has 2 key parameters
+
+		1. Mean: The center of the bell. This is the "average" value.
+		2. Variance or Standard Deviation: This determines how "spread out" or "flat" the bell is.
+
+	
+
+# Important Note:
+
+	* High Variance or Standard Deviation: High Uncertainty and flat bell
+	* Low Variance or Standard Deviation: High certainty
