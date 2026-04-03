@@ -1,0 +1,23 @@
+{
+  "mean": [
+    0.41807630298813914,
+    0.2354256987100399,
+    0.09590072410779485
+  ],
+  "std": [
+    0.2949450420210855,
+    0.16523355041232587,
+    0.08825366081164322
+  ],
+  "n_pixels_used": 768081920,
+  "n_images_used": 2930,
+  "computed_from": "train split only (preprocessed)",
+  "channel_order": "RGB",
+  "pixel_range": "[0, 1]",
+  "clahe_clip": 2.0,
+  "clahe_tile": [
+    8,
+    8
+  ],
+  "image_size": 512
+}
